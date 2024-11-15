@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb35b02f02be8c17787e96607360e357",
+    "revision": "247487e0cfa8949b4f0ca11801524656",
     "url": "/Econ31303-activity-portal/index.html"
   },
   {
-    "revision": "d85d1e65e22a64dd5986",
+    "revision": "52233529f3b08d9faf03",
     "url": "/Econ31303-activity-portal/static/css/main.4240dff5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Econ31303-activity-portal/static/js/2.6149fe22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d85d1e65e22a64dd5986",
-    "url": "/Econ31303-activity-portal/static/js/main.371c2175.chunk.js"
+    "revision": "52233529f3b08d9faf03",
+    "url": "/Econ31303-activity-portal/static/js/main.c3641827.chunk.js"
   },
   {
     "revision": "2299a08207c6e3ee192f",
