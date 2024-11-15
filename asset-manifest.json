@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ActivityApp/static/css/main.4240dff5.chunk.css",
-    "main.js": "/ActivityApp/static/js/main.1123a66b.chunk.js",
-    "main.js.map": "/ActivityApp/static/js/main.1123a66b.chunk.js.map",
-    "runtime-main.js": "/ActivityApp/static/js/runtime-main.bbb235cc.js",
-    "runtime-main.js.map": "/ActivityApp/static/js/runtime-main.bbb235cc.js.map",
-    "static/js/2.9cff888a.chunk.js": "/ActivityApp/static/js/2.9cff888a.chunk.js",
-    "static/js/2.9cff888a.chunk.js.map": "/ActivityApp/static/js/2.9cff888a.chunk.js.map",
-    "index.html": "/ActivityApp/index.html",
-    "precache-manifest.efea083ad5219e49c525de1ea9020b7d.js": "/ActivityApp/precache-manifest.efea083ad5219e49c525de1ea9020b7d.js",
-    "service-worker.js": "/ActivityApp/service-worker.js",
-    "static/css/main.4240dff5.chunk.css.map": "/ActivityApp/static/css/main.4240dff5.chunk.css.map",
-    "static/js/2.9cff888a.chunk.js.LICENSE.txt": "/ActivityApp/static/js/2.9cff888a.chunk.js.LICENSE.txt"
+    "main.css": "/Econ31303-activity-portal/static/css/main.4240dff5.chunk.css",
+    "main.js": "/Econ31303-activity-portal/static/js/main.1dd750b2.chunk.js",
+    "main.js.map": "/Econ31303-activity-portal/static/js/main.1dd750b2.chunk.js.map",
+    "runtime-main.js": "/Econ31303-activity-portal/static/js/runtime-main.4bb54a0c.js",
+    "runtime-main.js.map": "/Econ31303-activity-portal/static/js/runtime-main.4bb54a0c.js.map",
+    "static/js/2.6149fe22.chunk.js": "/Econ31303-activity-portal/static/js/2.6149fe22.chunk.js",
+    "static/js/2.6149fe22.chunk.js.map": "/Econ31303-activity-portal/static/js/2.6149fe22.chunk.js.map",
+    "index.html": "/Econ31303-activity-portal/index.html",
+    "precache-manifest.07c45689004145d2030c1cff6391753d.js": "/Econ31303-activity-portal/precache-manifest.07c45689004145d2030c1cff6391753d.js",
+    "service-worker.js": "/Econ31303-activity-portal/service-worker.js",
+    "static/css/main.4240dff5.chunk.css.map": "/Econ31303-activity-portal/static/css/main.4240dff5.chunk.css.map",
+    "static/js/2.6149fe22.chunk.js.LICENSE.txt": "/Econ31303-activity-portal/static/js/2.6149fe22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbb235cc.js",
-    "static/js/2.9cff888a.chunk.js",
+    "static/js/runtime-main.4bb54a0c.js",
+    "static/js/2.6149fe22.chunk.js",
     "static/css/main.4240dff5.chunk.css",
-    "static/js/main.1123a66b.chunk.js"
+    "static/js/main.1dd750b2.chunk.js"
   ]
 }
